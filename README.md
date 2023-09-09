@@ -101,7 +101,7 @@ Our online bookstore application is a one-stop digital platform where users can 
 
 ### **Technology Stack**
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** Postgresql
 - **Frontend:** React.js
 - **Authentication:** JWT (JSON Web Token)
 - **Payment Gateway:** Stripe or PayPal
