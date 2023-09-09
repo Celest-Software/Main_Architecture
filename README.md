@@ -87,14 +87,10 @@ Our online bookstore application is a one-stop digital platform where users can 
 
 5. **Order & Payment**
     - **Checkout:** Users can proceed to checkout, review their orders, and make payments securely.
-    - **Payment Options:** Multiple payment options including credit card, debit card, and digital wallets.
-    - **Order History:** Users can view their past orders and track the status of current orders.
 
-6. **Customer Support**
-    - **FAQs:** Users can access a section of Frequently Asked Questions to get instant answers to common queries.
-    - **Contact Support:** A dedicated support team is available to assist users with any queries or issues.
 
-7. **Admin Panel**
+
+6. **Admin Panel**
     - **User Management:** Admins can manage user accounts and monitor user activities.
     - **Inventory Management:** Admins can manage the book inventory, adding new titles, updating book details, and setting prices.
     - **Order Management:** Admins can oversee the order processes, including order confirmation and shipment tracking.
@@ -104,7 +100,7 @@ Our online bookstore application is a one-stop digital platform where users can 
 - **Database:** Postgresql
 - **Frontend:** React.js
 - **Authentication:** JWT (JSON Web Token)
-- **Payment Gateway:** Stripe or PayPal
+
 
 ### **Security**
 - **Data Encryption:** Sensitive data like passwords and payment details are encrypted using advanced encryption techniques.
